@@ -86,7 +86,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text= 𝙽𝙴𝚃𝚆𝙾𝚁𝙺", url="https://t.me/dumperNetwork"),
+            text="📡𝙽𝙴𝚃𝚆𝙾𝚁𝙺", url="https://t.me/dumperNetwork"),
     ],
     [
         InlineKeyboardButton(text="🔱 ᴅᴇᴠꜱ 🔱", url=f"https://t.me/Dumper_Devs"),
