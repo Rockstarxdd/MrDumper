@@ -89,15 +89,15 @@ buttons = [
             text="📡𝙽𝙴𝚃𝚆𝙾𝚁𝙺", url="https://t.me/dumperNetwork"),
     ],
     [
-        InlineKeyboardButton(text="🔱 ᴅᴇᴠꜱ 🔱", url=f"https://t.me/Dumper_Devs"),
+        InlineKeyboardButton(text="🔱 OWNER OP 🔱", url=f"https://t.me/AnonymousTechnician"),
         InlineKeyboardButton(
             text="🎵 ᴠᴄ ᴘʟᴀʏᴇʀ 🎵", url=f"https://telegram.dog/Dumper_Assistant"
         ),
     ],
     [
-        InlineKeyboardButton(text="🚑 ꜱᴜᴘᴘᴏʀᴛ 🚑", url=f"https://t.me/Dumper_support"),
+        InlineKeyboardButton(text="🚑 ꜱᴜᴘᴘᴏʀᴛ 🚑", url=f"https://t.me/dumperSuppport"),
         InlineKeyboardButton(
-            text="ᴜᴘᴅᴀᴛᴇꜱ 🚨", url=f"https://t.me/Dumper_updates"
+            text="ᴜᴘᴅᴀᴛᴇꜱ 🚨", url=f"https://t.me/Dumperupdates"
         ),
     ],
     [
