@@ -496,7 +496,7 @@ def Source_about_callback(update, context):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..😻 I'm *Florenza*
+            text=""" Hi..😻 I'm *Mr dumper*
                  \nHere is the [🔥Source Code🔥](https://github.com/T5fr0ck5t4r/flozenzabot) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -555,7 +555,7 @@ def get_help(update: Update, context: CallbackContext):
                     [
                         InlineKeyboardButton(
                             text="Sᴜᴘᴘᴏʀᴛ Cʜᴀᴛ 📢 ",
-                            url="https://t.me/dumperSuppport,
+                            url="https://t.me/dumperSuppport",
                         )
                     ],
                 ]
