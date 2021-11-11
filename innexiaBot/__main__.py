@@ -75,29 +75,29 @@ def get_readable_time(seconds: int) -> str:
 INNEXIA_IMG = "https://telegra.ph/file/8b6f8f2bb4ff3912634c7.jpg"
 
 PM_START_TEXT = """
-`ʜᴇʟʟᴏ` 🤗 `ɪ ᴀᴍ` [Mr Dumper](https://telegra.ph/file/bb13dcaeee26dccffae87.jpg) ` ᴘᴏᴡᴇʀꜰᴜʟʟ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ`
+`ʜᴇʟʟᴏ` 🤗 `ɪ ᴀᴍ` [𝗧𝗛𝗨𝗡𝗗𝗘𝗥 𝗕𝗢𝗧](https://telegra.ph/file/cd4b28979b79bce9b441a.jpg) ` ᴘᴏᴡᴇʀꜰᴜʟʟ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ`
 `ɪ ᴀᴍ ᴠᴇʀʏ ꜰᴀꜱᴛ ᴀɴᴅ  ᴍᴏʀᴇ ᴇꜰꜰɪᴄɪᴇɴᴛ  ɪ ᴘʀᴏᴠɪᴅᴇ ᴀᴡᴇꜱᴏᴍᴇ  ꜰᴇᴀᴛᴜʀᴇꜱ ᴡʜɪᴄʜ ᴀ ᴏᴡɴᴇʀ ᴡɪʟʟ ʟᴏᴏᴋ ꜰᴏʀ  ꜰɪʟᴛᴇʀ ,ᴡᴀʀɴ ꜱʏꜱᴛᴇᴍ,ꜱᴀᴠᴇ ɴᴏᴛᴇꜱ, ꜰʟᴏᴏᴅ, ʙᴀɴ ᴀɴᴅ ᴍᴏʀᴇ!`
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="🚀 ᴀᴅᴅ 𝙼𝚁 𝙳𝚄𝙼𝙿𝙴𝚁 ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ 🚀", url="http://t.me/mrdumperbot?startgroup=true"),
+            text="🚀 ᴀᴅᴅ ᴛʜᴜɴᴅᴇʀ ʙᴏᴛ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ 🚀", url="http://t.me/THE_THUNDER_ROBOT?startgroup=true"),
     ],
     [
         InlineKeyboardButton(
-            text="📡𝙽𝙴𝚃𝚆𝙾𝚁𝙺", url="https://t.me/dumperNetwork"),
+            text="📡𝙽𝙴𝚃𝚆𝙾𝚁𝙺", url="https://t.me/THE_THUNDER_NETWORK"),
     ],
     [
-        InlineKeyboardButton(text="🔱 OWNER OP 🔱", url=f"https://t.me/AnonymousTechnician"),
+        InlineKeyboardButton(text="🔱 OWNER OP 🔱", url=f"https://t.me/THUNDER_DUKE"),
         InlineKeyboardButton(
-            text="🎵 ᴠᴄ ᴘʟᴀʏᴇʀ 🎵", url=f"https://telegram.dog/Dumper_Assistant"
+            text="⚡ᴅev⚡", url=f"https://t.me/r0ckstar_xd"
         ),
     ],
     [
-        InlineKeyboardButton(text="🚑 ꜱᴜᴘᴘᴏʀᴛ 🚑", url=f"https://t.me/dumperSuppport"),
+        InlineKeyboardButton(text="🚑 ꜱᴜᴘᴘᴏʀᴛ 🚑", url=f"https://t.me/THUNDER_BOT_MANAGEMENT"),
         InlineKeyboardButton(
-            text="ᴜᴘᴅᴀᴛᴇꜱ 🚨", url=f"https://t.me/Dumperupdates"
+            text="ᴜᴘᴅᴀᴛᴇꜱ 🚨", url=f"https://t.me/THUNDER_GROUP_MANAGEMENT"
         ),
     ],
     [
